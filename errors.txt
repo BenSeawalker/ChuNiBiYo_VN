@@ -1,0 +1,9 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 6: expected '=' not found.
+    image bg wb_0, wb_1, wb_2, wb_3, wb_4, wb_5 = "bg_worldbuilders_0", "bg_worldbuilders_1", "bg_worldbuilders_2", "bg_worldbuilders_3", "bg_worldbuilders_4", "bg_worldbuilders_5"
+                 ^
+
+Ren'Py Version: Ren'Py 6.99.5.602
